@@ -1,6 +1,9 @@
 
 # Bar Chart Race, Explained
 
+![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E)
+
+
 The bar chart race is an animated chart and it displays top "n" values as per year or any category.It will take 2 or 3 mins to generate bar chart.Please wait.
 
 https://observablehq.com/@d3/bar-chart-race-explained@3007
